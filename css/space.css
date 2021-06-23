@@ -1,0 +1,23 @@
+body{
+	background-image: linear-gradient(to bottom, #201fe7, #0f35ed, #0045f1, #0053f5, #0060f8, #0072fd, #0083ff, #0092ff, #00a8ff, #00baff, #00cbf8, #27daee);
+	margin: 40px;
+	font-family: Helvetica, Times, sans-serif;
+}
+
+header{
+	background-image:linear-gradient(to right bottom, #401fb3, #0059d3, #007fdd, #009fd8, #3abbd1);
+	background-image: linear-gradient(to right bottom, #0f52f5, #0d4cf0, #0c46ec, #0b3fe7, #0b39e2, #0144e6, #004fea, #0059ee, #0072f8, #0088fd, #009cfe, #12affd);
+	background-image: linear-gradient(to right bottom, #0d46cf, #0d48d6, #0d4add, #0e4de4, #0e4feb, #0064f4, #0078fb, #008aff, #00abff, #00c8ff, #00e1ff, #37f8f4);
+	background-image: linear-gradient(to right bottom, #0047f0, #0057f4, #0065f6, #0073f7, #007ff7, #597bf4, #7e77ee, #9a72e7, #d053c7, #f12c97, #fc0b5e, #f1301f);
+	text-align: center;
+	border-radius: 150px
+
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 150px
+}
